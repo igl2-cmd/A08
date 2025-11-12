@@ -124,7 +124,7 @@ section article img {
 
 /* Step 17: Featured speaker image scaling (min 100px, max 250px) */
 section article img {
-    width: 80%; /* Adjusted from 100% to ensure scaling is visible */
+    width: 60%; /* Adjusted from 100% to ensure scaling is visible */
     min-width: 100px;
     max-width: 250px;
 }
@@ -163,3 +163,4 @@ footer p {
     padding-top: 1em;
     padding-bottom: 1em;
 }
+
